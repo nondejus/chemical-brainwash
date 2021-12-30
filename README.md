@@ -1,2 +1,12 @@
 # dutch-chemical-brainwash
+
 2002-2021
+
+# bemoeizorg
+https://nl.wikipedia.org/wiki/Bemoeizorg
+
+# brainwashing
+https://en.wikipedia.org/wiki/Brainwashing
+
+# chemicalvwarfare
+https://en.wikipedia.org/wiki/Chemical_warfare
